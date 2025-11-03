@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou a Luany Rudic dos Santos!
+# 👋 Olá, eu sou a Luany Rudic!
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** pela **Faculdade Uninove** e concluí o curso de **Qualidade de Software (184h)** pela **Impacta Digital**.  
+Sou formada em **Análise e Desenvolvimento de Sistemas** pela **Faculdade Uninove** e concluí o curso de **Qualidade de Software** pela **Impacta Digital**.  
 Atualmente trabalho como **Auxiliar de Informática** em uma **empresa de cobrança**, onde atuo tanto na parte técnica quanto no **atendimento e acompanhamento de clientes**.  
 
 Sou apaixonada por tecnologia e estou desenvolvendo meu portfólio com **projetos de testes automatizados** para consolidar meus estudos na área de **Qualidade de Software (QA)**.
@@ -58,5 +58,4 @@ Sou apaixonada por tecnologia e estou desenvolvendo meu portfólio com **projeto
 
 ## 💬 Entre em contato comigo
 
-📧 **luany-r@hotmail.com**  
 💼 https://www.linkedin.com/in/luany-rudic/
